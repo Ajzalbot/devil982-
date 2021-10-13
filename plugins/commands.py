@@ -66,8 +66,8 @@ async def start(bot, cmd):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎥movie request group🎥', url='https://t.me/cinemgraamam_requestgroup'),
-                        InlineKeyboardButton('OTT/DVD updates🥳', url='https://t.me/flix_updates')
+                        InlineKeyboardButton('🎥group🎥', url='https://t.me/tiger_chats'),
+                        InlineKeyboardButton('🔸channel🔸', url='https://t.me/FILMCORNER369')
                     ]
                     ]
                                              
